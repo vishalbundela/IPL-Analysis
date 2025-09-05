@@ -36,4 +36,4 @@ IPL statistics dataset (2008–2025)
 
 6. Screenshots
 
-https://github.com/vishalbundela/IPL-Analysis/blob/main/DashboardOf_IPLAnalysis.png
+![IPL Dashboard](https://github.com/vishalbundela/IPL-Analysis/blob/main/DashboardOf_IPLAnalysis.png)
