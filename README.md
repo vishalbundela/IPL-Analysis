@@ -33,3 +33,6 @@ IPL statistics dataset (2008–2025)
 📊 Dynamic season filter (select any year to view details)
 
 🔄 Fully interactive & dynamic dashboard
+
+6. Screenshots
+
