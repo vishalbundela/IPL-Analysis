@@ -1,5 +1,5 @@
 # IPL-Analysis
-##**📌 Project Title**
+## **📌 Project Title**
 🏏 IPL Analysis Dashboard (2008 - 2025)
 
 ##**📖 Short Description / Purpose**
