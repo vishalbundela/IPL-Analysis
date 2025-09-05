@@ -1,4 +1,4 @@
-# IPL-Analysis
+# IPL-Analysis Using PowerBI
 ### **📌 Project Title**
 🏏 IPL Analysis Dashboard (2008 - 2025)
 
