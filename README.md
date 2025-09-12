@@ -15,10 +15,17 @@ Power BI – for dashboard design and visualization
 DAX / Power Query – for data transformation & calculations
 
 ### **📂 Data Source**
-
+The IPL data is present in the four tables:
+  Ball by ball data- In this file there is the record of all the ball delivered in whole season, matches and ower.
+  IPL match data - In this all the match data is present from 2008 to 2025.
+  IPL player data - In this file all the player data is presnt and with there recent picture url.
 ![IPL Datasource](https://github.com/vishalbundela/IPL-Analysis/tree/main/IPL%20Data-20250825T184352Z-1-001/IPL%20Data)
 
 ### **🌟 Features / Highlights**
+
+📊 Dynamic season filter (select any year to view details)
+
+🔄 Fully interactive & dynamic dashboard
 
 🏆 Champion & Runner-up team details with logos
 
@@ -28,9 +35,14 @@ DAX / Power Query – for data transformation & calculations
 
 💥 Most Sixes & Most Fours by a player in a season
 
-📊 Dynamic season filter (select any year to view details)
+6️⃣ Total Six Hited in the Season 
 
-🔄 Fully interactive & dynamic dashboard
+4️⃣ Total Four Hited in the Season
+
+🏏 Total Match Played, Total Team Played, Total Centurys, Totla Half Centurys In the season
+
+
+
 
 ### **6. Screenshot of Dashboard**
 
