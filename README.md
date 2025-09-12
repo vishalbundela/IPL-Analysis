@@ -19,7 +19,7 @@ The IPL data is present in the four tables:
   Ball by ball data- In this file there is the record of all the ball delivered in whole season, matches and ower.
   IPL match data - In this all the match data is present from 2008 to 2025.
   IPL player data - In this file all the player data is presnt and with there recent picture url.
-[](https://github.com/vishalbundela/IPL-Analysis/tree/main/IPL%20Data-20250825T184352Z-1-001/IPL%20Data)
+![](https://github.com/vishalbundela/IPL-Analysis/tree/main/IPL%20Data-20250825T184352Z-1-001/IPL%20Data)
 
 ### **🌟 Features / Highlights**
 
