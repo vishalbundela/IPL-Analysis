@@ -16,7 +16,7 @@ DAX / Power Query – for data transformation & calculations
 
 ### **📂 Data Source**
 
-IPL statistics dataset (2008–2025)(Telegram)
+![IPL Datasource](https://github.com/vishalbundela/IPL-Analysis/tree/main/IPL%20Data-20250825T184352Z-1-001/IPL%20Data)
 
 ### **🌟 Features / Highlights**
 
