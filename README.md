@@ -4,9 +4,11 @@
 
 ### **📖 Short Description / Purpose**
 
-This dashboard provides a dynamic analysis of IPL seasons from 2008 to 2025.
-It highlights season champions, runners-up, Orange Cap & Purple Cap holders, and players with most sixes & fours.
-The purpose of this project is to showcase interactive data visualization and insights using Power BI.
+Developed an interactive Power BI dashboard analyzing 18 IPL seasons (2008–2025) with 10+ interactive visuals and
+5+ slicers/filters to explore team and player performance. Integrated insights such as Orange Cap, Purple Cap, most
+sixes and fours, champion & runner-up teams, total teams participated, centuries and half-centuries, and player
+wise statistics. Processed 2000+ match-level records to build dynamic insights and reduced manual data
+exploration time by ~60–70% through automated visual analytics.
 
 ### **🛠 Tech Stack**
 
